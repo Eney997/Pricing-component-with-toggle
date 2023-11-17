@@ -1,0 +1,31 @@
+@media (width>1440px){
+    .momaback2 {
+        display: block;
+    }
+    .didiboxyuti {
+        grid-template-areas: 'erti ori sami';
+    }
+    .firstbigbox {
+        grid-area: erti;
+        margin-top: 32px;
+    }
+    .secondbigbox {
+        grid-area: ori;
+        width: 350px;
+        height: 500px;
+    }
+    .thirdbigbox {
+        grid-area: sami;
+        margin-top: 100px;
+    }
+    .sh2 {
+        position: absolute;
+        margin-top: 79px;
+        margin-left: -163px;
+    }
+    .sh3 {
+        position: absolute;
+        margin-top: 79px;
+        margin-right: -155px;
+    }
+}
