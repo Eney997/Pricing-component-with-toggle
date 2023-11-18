@@ -10,7 +10,7 @@ for (let i = 0; i < cir.length; i++) {
         for (let j = 0; j < price.length; j++) {
            let currentPrice = Number(price[j].innerHTML);
            
-           if (price2 <= currentPrice) {
+           if (price2 = currentPrice) {
                currentPrice *= 10;
            }
            else {

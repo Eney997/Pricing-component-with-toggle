@@ -213,6 +213,16 @@ body {
     display: grid;
     place-items: center;
 }
+.dolari {
+    position: absolute;
+    margin-top: -265px;
+    margin-left: -230px;
+}
+.dolari1 {
+    position: absolute;
+    margin-top: -265px;
+    margin-left: -220px;
+}
 .active {
     display: block;
 }
