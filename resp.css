@@ -31,6 +31,9 @@
     .dolari1 {
         position: absolute;
         margin-top: -300px;
-        margin-left: -240px;
+        margin-left: -270px;
+    }
+    .dolari {
+        margin-left: -270px;
     }
 }
